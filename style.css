@@ -401,11 +401,11 @@ body {
     }
     .horizontal-image-container {
        
-        margin-right: 50px;
-        margin-left: 50px;
+        margin-right: 80px;
+        margin-left: 80px;
     }
     .horizontal-image-container img {
-      
+        
         height: auto;
    
     }
