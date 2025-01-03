@@ -407,6 +407,7 @@ body {
     .horizontal-image-container img {
         
         height: auto;
+        width: 70%;
    
     }
 }
